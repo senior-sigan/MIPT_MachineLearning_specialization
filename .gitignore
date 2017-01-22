@@ -26,7 +26,4 @@ Temporary Items
 # Jupyter Notebook
 .ipynb_checkpoints
 
-### Data ###
-data
-
 .idea
