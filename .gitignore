@@ -27,3 +27,5 @@ Temporary Items
 .ipynb_checkpoints
 
 .idea
+*.pyc
+*.npz
